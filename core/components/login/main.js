@@ -168,8 +168,8 @@ angular.module('mm.core.login', [])
     // Function to handle session expired events.
     function sessionExpired(siteid) {
 
-        var siteurl = $mmSite.getURL();
-
+        //var siteurl = $mmSite.getURL();//change this to lms.english.com.my
+		var siteurl = "https://lms.english.com.my";
         if (typeof(siteurl) !== 'undefined') {
 
             if (siteid && siteid !== $mmSite.getId()) {
