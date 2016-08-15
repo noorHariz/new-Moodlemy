@@ -76,6 +76,10 @@ angular.module('mm.core.login')
         siteChecked = true;
     }
 
+	$scope.signup = function() {
+        $mmUtil.openInBrowser("https://lms.english.com.my/login/index.php");
+    }
+	
     $scope.login = function() {
 
         $mmApp.closeKeyboard();
