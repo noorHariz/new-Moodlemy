@@ -11,7 +11,7 @@
             <input type="url" placeholder="lms.english.com.my" ng-model="siteurl" mm-no-input-validation mm-auto-focus >
           </label>
           <div class="padding">
-              <button class="button button-block" ng-click="connect(siteurl)">{{ 'mm.login.connect' | translate }}</button>
+              <button class="button button-block" ng-click="connect(siteurl)" ng-disabled="!siteurl">{{ 'mm.login.connect' | translate }}</button>
               <!-- <input type="submit" class="button button-block" value="{{ 'mm.login.connect' | translate }}" > -->
           </div>
         </form>
