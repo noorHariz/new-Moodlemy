@@ -9111,7 +9111,7 @@ select.mma-mod_survey-select {
   
 /**addon*/
   
-.init, .connect, .credentials, .reconnect {
+.connect, .credentials, .reconnect {
   background-color: #6e999d;
   background-image: url("../img/moodle.png"), url("../img/bg_2.png");
   background-repeat: no-repeat;
