@@ -9132,7 +9132,8 @@ select.mma-mod_survey-select {
   .connect .item-stacked-label, .credentials .item-stacked-label, .reconnect .item-stacked-label {
     background-color: rgba(255, 255, 255, 0.4); }
   .connect button, .credentials button, .reconnect button {
-    border-color: #b1cdfb; }
+    border-color: #b1cdfb; 
+	background-color: #dfebff;}
 
 a, mm-format-text a {
   color: #387ef5;
