@@ -9118,7 +9118,7 @@ select.mma-mod_survey-select {
   background-position: top 20px center, top left;
   background-size: 200px auto, 100%;
   padding-top: 65px; 
-  overflow: hidden;}
+  scroll-content: false;}
   .connect .list-inset, .credentials .list-inset, .reconnect .list-inset {
     /*background-color: transparent;*/
 	background-color: rgba(171, 172, 175, 0.4);}
