@@ -9124,7 +9124,7 @@ select.mma-mod_survey-select {
     background-color: rgba(255, 255, 255, 0.4);
     border-color: rgba(255, 255, 255, 0.3);
     border-bottom-color: rgba(255, 255, 255, 0.1); 
-	background-position:top 100px center;}
+	position:top 100px center;}
   .connect .item-input, .credentials .item-input, .reconnect .item-input {
     padding-right: 16px; }
     .connect .item-input input, .credentials .item-input input, .reconnect .item-input input {
