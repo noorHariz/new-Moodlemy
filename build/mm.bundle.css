@@ -9115,8 +9115,8 @@ select.mma-mod_survey-select {
   background-color: #6e999d;
   background-image: url("../img/moodle.png"), url("../img/bg_2.png");
   background-repeat: no-repeat;
-  background-position: top 200px center, bottom right;
-  background-size: 20px auto, 50%;
+  background-position: top 20px center, bottom right;
+  background-size: 200px auto, 50%;
   padding-top: 65px; }
   .connect .list-inset, .credentials .list-inset, .reconnect .list-inset {
     background-color: transparent; }
