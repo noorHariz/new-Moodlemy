@@ -9120,7 +9120,8 @@ select.mma-mod_survey-select {
   padding-top: 65px; 
   overflow: hidden;}
   .connect .list-inset, .credentials .list-inset, .reconnect .list-inset {
-    background-color: transparent;}
+    /*background-color: transparent;*/
+	background-color: rgba(171, 172, 175, 0.4);}
   .connect .item, .credentials .item, .reconnect .item {
     background-color: rgba(171, 172, 175, 0.4);
     border-color: rgba(255, 255, 255, 0.3);
