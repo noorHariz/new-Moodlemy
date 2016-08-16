@@ -9115,7 +9115,7 @@ select.mma-mod_survey-select {
   background-color: #6e999d;
   background-image: url("../img/moodle.png"), url("../img/bg_2.png");
   background-repeat: no-repeat;
-  background-position: top 20px center, bottom right;
+  background-position: top 200px center, bottom right;
   background-size: 20px auto, 50%;
   padding-top: 65px; }
   .connect .list-inset, .credentials .list-inset, .reconnect .list-inset {
@@ -9150,7 +9150,7 @@ mm-format-text .button.activated a {
   box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1); }
 
 .bar-content .title, .item-divider h2, .item-divider .item .item-heading, .item .item-divider .item-heading, .item-divider p, a.item h2, a.item .item-heading {
-  color: #ff6500; }
+  color: #FAFAFA; }
 
 .tabs .tab-item {
   color: #212630; }
