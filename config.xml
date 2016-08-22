@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobiletest"
-        versionCode = "2014"
+        id        = "com.moodle.sunagoeducation"
+        versionCode = "2016"
         version   = "1.1">
-    <name>Moodle Mobiletest</name>
+    <name>Sunago Education</name>
 
     <description>
-        Moodle Mobiletest official app
+        Sunago Education Mobile  app
     </description>
 
     <author href="http://lms.english.com.my" email="info@ictinteractive.com">
