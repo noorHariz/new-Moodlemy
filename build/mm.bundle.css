@@ -9154,11 +9154,12 @@ mm-format-text .button.activated a {
 //.bar-content .title, .item-divider h2, .item-divider .item .item-heading, .item .item-divider .item-heading, .item-divider p, a.item h2, a.item .item-heading {
 //  color: #FAFAFA; }
 
-.bar-content .title, .item-divider h2, .item-divider .item .item-heading, .item .item-divider .item-heading, .item-divider p {
+.bar-content .title, .item-divider h2, .item-divider .item .item-heading, .item .item-divider .item-heading, .item-divider p, a.item .item-heading {
   color: #FFFFFF; }
   
-a.item h2, a.item .item-heading{
+a.item h2{
   color: #ABACAF; }
+  
   
 .tabs .tab-item {
   color: #212630; }
